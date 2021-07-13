@@ -5,4 +5,4 @@
 
 ## Shell Calculator v2
 
-##COMING SOON
+## COMING SOON
