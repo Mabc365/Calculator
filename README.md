@@ -7,6 +7,6 @@
 
 ## COMING SOON
 
-[Back to Table of Contents](https://mabc365.github.io/tableOfContents)
+
 
 [Back to Home](https://mabc365.github.io)
