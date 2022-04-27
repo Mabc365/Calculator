@@ -17,7 +17,7 @@ By Mabc365
 ## Eclipsecore Calculator v2
 
 ### Windows Download
-> [https://github.com/Mabc365/Eclipsecore-Calculator/releases/download/Eclipsecore-Calculator-v2/mysetup.exe](https://github.com/Mabc365/Eclipsecore-Calculator/releases/download/Eclipsecore-Calculator-v2/mysetup.exe) \
+> [https://github.com/Mabc365/Eclipsecore-Calculator/releases/download/Eclipsecore-Calculator-v2/installer.exe](https://github.com/Mabc365/Eclipsecore-Calculator/releases/download/Eclipsecore-Calculator-v2/installer.exe) \
 > Click the link above to download the second version of Eclipsecore Calculator
 > 
 > If you would like to view the source code of this, feel free! The link below is the link to the release page on github \
