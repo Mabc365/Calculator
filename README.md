@@ -2,9 +2,7 @@ By Mabc365
 
 ## About Eclipsecore Calculator
 
- Eclipsecore Calculator is a calculator built for simple use. Eclipsecore Calculator is in the commandline and can do many operations and we strive to do more.
-
- This calculator consists of a few different operations including addition, subtraction, multiplication, division, powers, roots, and all those operations with powers.
+ Eclipsecore Calculator is a calculator built for simple use. Eclipsecore Calculator is in the commandline and can do many operations and we strive to do more. This calculator consists of a few different operations including addition, subtraction, multiplication, division, powers, roots, and all those operations with powers.
 
 
 ## Eclipsecore Calculator v1
