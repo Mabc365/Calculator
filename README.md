@@ -1,6 +1,6 @@
 By Mabc365
 
-## ABOUT ECLIPSECORE CALCULATOR
+## About Eclipsecore Calculator
 
  Eclipsecore Calculator is a calculator built for simple use. Eclipsecore Calculator is in the commandline and can do many operations and we strive to do more.
 
