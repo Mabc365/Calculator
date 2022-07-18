@@ -1,3 +1,5 @@
+# Privacy Policy
+
 This page tells you about data used in Eclipsecore Calculator
 
 Skip to: 
